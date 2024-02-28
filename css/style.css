@@ -47,7 +47,7 @@ body {
 }
 
 .articleCon {
-    background-color: #6b21a8;
+    background-color: rgb(255, 253, 253);
     margin-top: 20px;
     min-height: 200px;
     border-radius: 10px;
@@ -55,6 +55,7 @@ body {
     flex-direction: column;
     justify-content: center;
     padding: 20px;
+    color: #000;
 }
 
 .container .articleCon p:first-child {
